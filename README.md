@@ -1,7 +1,7 @@
 # VertexArmor-Enclosure
 VertexArmor are my newest SlimeVR Cases with better charging port location, easier internal layout (toolless assembly) and soon a dock too (Might require yoinking USB-C connectors from old/unused cables and some glue)
 
-Please note the cases are currently unfinished!
+**Please note the cases are currently unfinished!**
 
 Component support:
 * BMI160
@@ -17,6 +17,6 @@ Made with Blender 3.6.1
 
 These cases are and will stay a W.I.P. for a little while.
 
-##
+#
 
 ~Subze
