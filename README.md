@@ -13,7 +13,7 @@ Component support:
 
 For connecting the components, please refer to the SlimeVR documentation (https://docs.slimevr.dev/diy/tracker-schematics.html)
 
-Made with Blender 3.6.1 / 4.0 (latest updates)
+Made with Blender 3.6.1 / 4.0(.2) (latest updates)
 
 These cases are and will stay a W.I.P. for a little while.
 
