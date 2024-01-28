@@ -5,7 +5,7 @@ VertexArmor are my newest SlimeVR Cases with better charging port location, easi
 
 Component support:
 * BMI160
-* Wemos D1 Mini
+* Wemos D1 Mini (both micro USB and USB-C should work, choose which one you like best)
 * 804040 1800 mAh Battery (or smaller)
 * tp4056 type C charging board
 * DPDT 2P2T power switch
