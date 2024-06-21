@@ -20,6 +20,14 @@ VertexArmor are my newest SlimeVR Cases with better charging port location, easi
 
 Made with Blender 4.1
 
+![GitHub Stable Version Tag](https://img.shields.io/github/v/tag/VaeluxV/VertexArmor-Enclosure?style=for-the-badge&label=Latest%20stable%20version)
+![GitHub Version Tag](https://img.shields.io/github/v/tag/VaeluxV/VertexArmor-Enclosure?include_prereleases&style=for-the-badge&label=Latest%20version)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/VaeluxV/VertexArmor-Enclosure/total?style=for-the-badge&label=Total%20downloads)
+![GitHub Repo stars](https://img.shields.io/github/stars/VaeluxV/VertexArmor-Enclosure?style=for-the-badge)
+
+
+
+
 # V1 cases (no longer maintaned)
 
 ### Component support (V1):
