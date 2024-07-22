@@ -1,10 +1,8 @@
 # VertexArmor-Enclosure
 VertexArmor are my newest SlimeVR Cases with better charging port location, easier internal layout (toolless assembly) and a dock too! (Might require grabbing USB-C connectors from old/unused cables and some glue to secure them in place)
 
-**Please note V2 is in the works and only supports my custom pcb!**
-
 # V2 cases
-
+Please note V2 **only** supports my custom PCB!
 ### Component support (V2):
 * BMI160 (BMI270 should work, currently untested)
 * Wemos D1 Mini (both micro USB and USB-C should work, choose which one you like best)
