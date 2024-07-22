@@ -29,7 +29,8 @@ Made with Blender 4.1
 
 
 
-# V1 cases (no longer maintaned)
+# V1 cases (LEGACY - no longer actively maintaned)
+These cases are still in the files and should still be usable, however I do not actively update or support these anymore.
 
 ### Component support (V1):
 * BMI160 (BMI270 might work, untested)
