@@ -13,7 +13,7 @@ VertexArmor are my newest SlimeVR Cases with better charging port location, easi
 * DPDT 2P2T power switch
 * 24 or 26 AWG wires
 * pinheaders if your D1 didn't come with any (to connect it to the pcb more easily)
-* the (custom pcbs)[https://github.com/VaeluxV/Custom-SlimeVR-D1-BMI-PCB/releases/tag/v1.3.2]
+* the [custom pcbs](https://github.com/VaeluxV/Custom-SlimeVR-D1-BMI-PCB/releases/tag/v1.3.2)
 
 ![Image of the v2 case](https://github.com/VaeluxV/VertexArmor-Enclosure/blob/143781151046fbaee0d165c5f9143828648ac848/Renders/V2.3/Render-V2.3_2024-06-20_1.jpg)
 
