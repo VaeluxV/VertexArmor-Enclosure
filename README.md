@@ -1,5 +1,5 @@
 # VertexArmor-Enclosure
-VertexArmor are my newest SlimeVR Cases with better charging port location, easier internal layout (toolless assembly) and a dock too! (Might require grabbing USB-C connectors from old/unused cables and some glue to secure them in place)
+VertexArmor are my SlimeVR Cases with better charging port location, easier internal layout (toolless assembly) and a dock too! (Might require grabbing USB-C connectors from old/unused cables and some glue to secure them in place)
 
 # V2 cases
 Please note V2 **only** supports my custom PCB!
