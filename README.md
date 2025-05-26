@@ -1,6 +1,6 @@
 # VertexArmor-Enclosure
 
-My SlimeVR Cases that can be used with my custom PCB or with separate components atteched to a carrier board.
+SlimeVR Cases that can be used with my custom PCB.
 
 More info to be added at a later date.
 
